@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{46644279-7567-42C2-9A33-A2EDC3240C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{19534273-14AD-451E-A1C7-BE686A0930A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busines", "Busines\Busines.csproj", "{72386628-7795-4E01-ADF2-0E3641E1E29F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46644279-7567-42C2-9A33-A2EDC3240C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46644279-7567-42C2-9A33-A2EDC3240C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46644279-7567-42C2-9A33-A2EDC3240C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46644279-7567-42C2-9A33-A2EDC3240C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19534273-14AD-451E-A1C7-BE686A0930A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19534273-14AD-451E-A1C7-BE686A0930A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19534273-14AD-451E-A1C7-BE686A0930A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19534273-14AD-451E-A1C7-BE686A0930A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72386628-7795-4E01-ADF2-0E3641E1E29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72386628-7795-4E01-ADF2-0E3641E1E29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72386628-7795-4E01-ADF2-0E3641E1E29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72386628-7795-4E01-ADF2-0E3641E1E29F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A2C4EE-D463-47FF-A93E-6C66054BC48D}
+	EndGlobalSection
+EndGlobal
